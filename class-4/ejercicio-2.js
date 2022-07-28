@@ -1,6 +1,7 @@
 let termino = 25;
 let ultimoPaso =11 * termino
 let numb = 0;
+
     do{
         numb = numb + 11;
         console.log (numb);
@@ -15,4 +16,4 @@ let termino = 1;
         termino = termino + 1;
         console.log (numb);
     }
-    while (termino <= 25)
+    while (termino <= 25)*/
