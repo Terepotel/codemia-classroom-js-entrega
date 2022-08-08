@@ -13,7 +13,7 @@ function traducir (palabra) {
             console.log("cat")
             break;
         default:
-            console.log(" ");
+            break;
     }
     
 }
