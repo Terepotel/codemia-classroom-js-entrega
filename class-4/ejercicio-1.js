@@ -12,8 +12,6 @@ function traducir (palabra) {
         case "gato":
             console.log("cat")
             break;
-        default:
-            break;
     }
     
 }
