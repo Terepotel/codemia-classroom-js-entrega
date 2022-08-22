@@ -5,7 +5,7 @@ function horasdDelDiaTernario(hora) {
       ? "Buenas tardes"
       : hora >= 14
       ? "Buenos medio dia"
-      : "Buenos dias";
+      : "Buenos dias"
     )
   }
   horasdDelDiaTernario(22);
